@@ -1,19 +1,23 @@
-<h1 align="center">👋 Hey, I'm Saip ZZ</h1>
+<h1 align="center">👋 Hey, I'm Roma</h1>
+<h3 align="center">💻 Backend Developer | C# • .NET • SQL • Clean Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&width=480&lines=Backend+Developer;C%23+.NET+Enthusiast;Clean+Code+Advocate;Building+Scalable+Systems+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&width=480&lines=Backend+Developer;C%23+.NET+Enthusiast;Clean+Code+Advocate;Building+Scalable+Systems+🚀"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-### 🧠 About Me  
-I'm a **backend developer** focused on creating scalable, efficient, and maintainable systems using **C#** and **.NET**.  
-I love bringing structure and clarity into every project I work on.  
+### 🧠 About Me
+I'm a **backend developer** focused on creating scalable, efficient, and maintainable systems using **C#** and **.NET**.
+I love bringing structure and clarity into every project I work on.
 
-💡 Core principles:  
-- Clean code is better than clever code  
-- Simplicity scales  
-- Learn. Build. Refine. Repeat.  
+💡 Core principles:
+- Clean code is better than clever code
+- Simplicity scales
+- Learn. Build. Refine. Repeat.
 
 ---
 
@@ -21,8 +25,11 @@ I love bringing structure and clarity into every project I work on.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
