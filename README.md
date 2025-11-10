@@ -1,28 +1,56 @@
-# 👋 Hi, I'm r0kki1 
+<h1 align="center">👋 Hey, I'm r0kki1</h1>
 
-I'm a **backend developer** who loves clean architecture, efficient APIs, and scalable systems.  
-I write code that speaks for itself — reliable, readable, and maintainable.
-
----
-
-## 🧠 Tech Stack
-**Languages:** Python, Go, JavaScript  
-**Frameworks:** FastAPI, Flask, Django  
-**Databases:** PostgreSQL, Redis, MongoDB  
-**Tools:** Docker, Git, Linux, Nginx  
-**Testing:** Pytest, Postman  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&width=480&lines=Backend+Developer;C%23+.NET+Enthusiast;Clean+Code+Advocate;Building+Scalable+Systems+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romin-garizm&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romin-garizm&layout=compact&theme=transparent&hide_border=true)
+### 🧠 About Me  
+I'm a **backend developer** focused on creating scalable, efficient, and maintainable systems using **C#** and **.NET**.  
+I love bringing structure and clarity into every project I work on.  
+
+💡 Core principles:  
+- Clean code is better than clever code  
+- Simplicity scales  
+- Learn. Build. Refine. Repeat.  
 
 ---
 
-## 📫 Contact
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ВАШ_НИК)
+### ⚙️ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-✨ *Minimalism isn’t boring — it’s clarity with purpose.*
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0kki1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0kki1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/r0kki1/r0kki1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📫 Contact Me
+<p align="center">
+  <a href="https://t.me/r0kki1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">✨ Writing clean C# code, building powerful backends, and keeping things elegant.</h4>
