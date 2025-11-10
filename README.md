@@ -2,10 +2,7 @@
 <h3 align="center">💻 Backend Developer | C# • .NET • SQL • Clean Code</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&width=480&lines=Backend+Developer;C%23+.NET+Enthusiast;Clean+Code+Advocate;Building+Scalable+Systems+🚀"
-    alt="Typing SVG"
-  />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </p>
 
 ---
