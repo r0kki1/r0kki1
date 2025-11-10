@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Roma</h1>
+<h1 align="center">👋 Hey, I'm Roman</h1>
 <h3 align="center">💻 Backend Developer | C# • .NET • Clean Code</h3>
 
 ---
