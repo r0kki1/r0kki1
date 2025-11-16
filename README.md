@@ -26,13 +26,6 @@ I love bringing structure and clarity into every project I work on.
 
 ---
 
-### ⏱️ WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r0kki1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact Me
 <p align="center">
   <a href="https://t.me/r0kki1" target="_blank">
