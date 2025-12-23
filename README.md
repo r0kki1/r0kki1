@@ -33,6 +33,3 @@ I love bringing structure and clarity into every project I work on.
   </a>
 </p>
 
----
-
-<h4 align="center">✨ Writing clean C# code, building powerful backends, and keeping things elegant.</h4>
